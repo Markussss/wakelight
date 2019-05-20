@@ -1,0 +1,3 @@
+[submodule "beepjs"]
+	path = beepjs
+	url = https://github.com/luciferous/beepjs
